@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+#map {
+  top: 50px;
+  height: 80vh;
+  width: 100%;
+}
+
+.searchForm {
+  margin-top: 50px;
+  margin-left: 100px;
+}
